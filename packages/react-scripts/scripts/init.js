@@ -191,10 +191,10 @@ module.exports = function (
   const templateScripts = templatePackage.scripts || {};
   appPackage.scripts = Object.assign(
     {
-      start: 'react-scripts start',
-      build: 'react-scripts build',
-      test: 'react-scripts test',
-      eject: 'react-scripts eject',
+      start: 'kitengo-react-scripts start',
+      build: 'kitengo-react-scripts build',
+      test: 'kitengo-react-scripts test',
+      eject: 'kitengo-react-scripts eject',
     },
     templateScripts
   );

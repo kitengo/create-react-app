@@ -24,7 +24,7 @@
     "utils"
   ],
   "bin": {
-    "react-scripts": "./bin/react-scripts.js"
+    "kitengo-react-scripts": "./bin/kitengo-react-scripts.js"
   },
   "types": "./lib/react-app.d.ts",
   "dependencies": {
